@@ -1,6 +1,6 @@
-class job5
+class job6
 {
 	public static void main(String[] args){
-		System.out.println("Job5 Done!");
+		System.out.println("Job6 Done!");
 	}
 }
